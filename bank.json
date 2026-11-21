@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "institutionId": "kbank",
   "country": "TH",
   "displayName": "Kasikornbank",
@@ -18,7 +18,7 @@
         "thai-statements-v1"
       ],
       "sha256": "013dcec5d09fbe1c30bfe17c471aa3bc149ecda5d0e6586df721a09849a38c13",
-      "path": "templates/th/kbank/credit-card.v1.json",
+      "path": "templates/credit-card.v1.json",
       "changeSummary": "Initial reviewed bundled recipe."
     },
     {
@@ -34,7 +34,7 @@
         "thai-statements-v1"
       ],
       "sha256": "633b996d8d0984952056f44e7bdffe7e374765b1478ffb2317b6edd2170c0ca8",
-      "path": "templates/th/kbank/savings.v1.json",
+      "path": "templates/savings.v1.json",
       "changeSummary": "Initial reviewed bundled recipe."
     }
   ]
